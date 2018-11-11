@@ -5,6 +5,9 @@ spring:
     url: jdbc:postgresql://127.0.0.1:5432/makelife?charSet=UTF-8
     username: sunyouzhi
 
+aa:
+  name: sssss
+
 eureka:
   client:
     serviceUrl:
